@@ -1,0 +1,51 @@
+body{
+    font-family: 'outfit';
+    margin: 28%;
+    background: hsl(217, 54%, 11%)
+}
+.tudo{
+    border-radius: 1%;
+    margin: 50px;
+   background: hsl(216, 50%, 16%);
+}
+header{
+   
+    color: hsl(0, 0%, 100%)
+}
+p{
+    margin-top: auto;
+    color:hsl(215, 32%, 27%);
+    font-size: 18px;
+}
+.imagem-principal{
+    border-radius: 10%;
+    padding: 30px;
+    border: 20%;
+    margin: 30px;
+    width: 300px;
+}
+.moeda{
+    color: aqua;
+    padding-right:30% ;; 
+   display: inline-block;
+   padding: top 300px; ;
+  
+}
+.dias{
+    padding-left: 90px;
+        display: inline-block;
+       
+}
+.cara{
+    width: 30px;
+}
+.texto-2{
+    margin: 19px;
+    padding: auto;
+}
+
+
+
+
+
+
